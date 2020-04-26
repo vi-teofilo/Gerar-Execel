@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Workspace/GeraExcel/lib/poi-3.9.jar" sourcepath="C:/Users/vfurtado/.m2/repository/org/apache/poi/poi/3.9/poi-3.9-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
